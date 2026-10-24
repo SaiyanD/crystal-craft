@@ -1,4 +1,4 @@
-package me.droblox4g2.crystal-craft;
+package me.droblox4g2.crystalcraft;
 
 import net.fabricmc.api.ModInitializer;
 

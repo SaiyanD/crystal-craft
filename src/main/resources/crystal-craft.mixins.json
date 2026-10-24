@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "me.droblox4g2.crystal-craft.mixin",
+  "package": "me.droblox4g2.crystalcraft.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [],
   "injectors": {

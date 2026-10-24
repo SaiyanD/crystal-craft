@@ -3,22 +3,21 @@
   "id": "crystal-craft",
   "version": "${version}",
   "name": "Crystal Craft",
-  "description": "",
+  "description": "A rare Doom Crystal found in Bastion Remnant chests can be used to upgrade Netherite equipment into powerful Doom equipment.",
   "authors": [],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/crystal-craft/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "me.droblox4g2.crystal-craft.Main"
+      "me.droblox4g2.crystalcraft.Main"
     ]
   },
   "mixins": [
     "crystal-craft.mixins.json"
   ],
   "depends": {
-    "minecraft": "~26.2",
+    "minecraft": "~26.1.2",
     "fabric-api": "*"
   }
 }
