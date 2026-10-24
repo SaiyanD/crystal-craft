@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "crystal-craft",
+  "version": "${version}",
+  "name": "Crystal Craft",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/crystal-craft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.droblox4g2.crystal-craft.Main"
+    ]
+  },
+  "mixins": [
+    "crystal-craft.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "~26.2",
+    "fabric-api": "*"
+  }
+}
